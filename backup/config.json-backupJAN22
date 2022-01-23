@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa59340e76b524E0B1338bD8e816D8D0a2a0EbBE6",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xa59340e76b524E0B1338bD8e816D8D0a2a0EbBE6",
+  "NETWORK": {
+    "NAME": "Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Cryptocraftman20211218",
+  "SYMBOL": "CCM20211218",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptocraftmanspaceman",
+  "SHOW_BACKGROUND": true
+}
