@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x24b53041B1742DeF246e7B8D0dcb7f1C7C1646Cb",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x24b53041B1742DeF246e7B8D0dcb7f1C7C1646Cb",
+  "CONTRACT_ADDRESS": "0x4db4e3B0670d5C2ae2F506Fe74EF0E406F10463b",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x4db4e3B0670d5C2ae2F506Fe74EF0E406F10463b",
   "NETWORK": {
     "NAME": "Mumbai",
     "SYMBOL": "Matic",
     "ID": 80001
   },
-  "NFT_NAME": "Theghostanimal",
-  "SYMBOL": "TGA2022JAN23",
+  "NFT_NAME": "Theghostanimaluat",
+  "SYMBOL": "TGLionuat",
   "MAX_SUPPLY": 50,
-  "WEI_COST": 150000000000000000,
-  "DISPLAY_COST": 0.1,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/TGA2022JAN23",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/theghostlion",
   "SHOW_BACKGROUND": true
 }
