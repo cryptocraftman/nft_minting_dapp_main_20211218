@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x255B3d08D1BFaCd82371Fd71225CcF688E4D7524",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x255B3d08D1BFaCd82371Fd71225CcF688E4D7524",
+  "CONTRACT_ADDRESS": "0xf975E831B8935BFC561a03b49846B91656752cA7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xf975E831B8935BFC561a03b49846B91656752cA7",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Theghostanimalmac",
-  "SYMBOL": "TGLionmac",
+  "NFT_NAME": "Theghostanimalmac1",
+  "SYMBOL": "TGLionmac1",
   "MAX_SUPPLY": 2,
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
